@@ -29,7 +29,3 @@ Two things to know:
    - `-ql` to render animation in low quality for speeding up the process, highly recommended while testing
    - `-qh` to render animation in high quality
    - `-p` to immediately play animation when finished rendering
-
-## Screenshot
-
-[![Video screenshot](/Screenshot_2022-02-25.png)](https://www.youtube.com/watch?v=c-MMb71NMvw)
